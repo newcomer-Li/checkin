@@ -1,4 +1,4 @@
-name: run
+name: GLADOSRUN
 
 on:
   workflow_dispatch:
